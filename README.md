@@ -12,4 +12,4 @@ Todo list is a **React Application**. The main purpose of this application is yo
 
 ## Visit Live Site
 
-If you wanna take a look of my website, [Go Here](https://iamshafiul.github.io/todo-list-typescript-app/)
+If you wanna take a look of my website, [Go Here](https://developershafiul.github.io/todo-list-typescript-app/)
